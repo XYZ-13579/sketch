@@ -54,10 +54,10 @@ BRUSH_TYPES = {
 
 # --- キャンバス座標定義 ---
 CANVAS_COORDS = {
-    "left top": (223, 213),
-    "right top": (1699, 213),
-    "left bottom": (221, 1200),
-    "right bottom": (1699, 1198),
+    "left top": (366, 56),
+    "right top": (1556, 56),
+    "left bottom": (366, 1197),
+    "right bottom": (1556, 1197),
 }
 
 # 境界の安全パディング（ブラシの太さやリサイズハンドルを考慮）
